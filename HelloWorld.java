@@ -3,6 +3,6 @@ public class HelloWorld{
 		System.out.println("Hello World");
 		System.out.println("1");
 		System.out.println("Hello World");
-		System.out.println("1");
+		System.out.println("1啊啊啊");
 	}
 }
